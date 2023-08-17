@@ -278,10 +278,7 @@ user@ubuntu:~/AirBnB$
 ```
 
 ## Built with :gear:
-python3 (3.4.3)
-
-### Version :pushpin:
-HBnB - version 9.6
+python3 (3.11.3)
 
 ### Acknowledgements :raised_hands:
 To all the peers that contribuited with their knowledge
